@@ -1,6 +1,6 @@
 # Hi, I'm Rehan 👋
 
-Second-year B.Tech CSE student (2025–29) who enjoys backend development, DSA, and building real-world projects. I like turning ideas into working products, from API design to deployment.
+Second-year B.Tech Computer Science student (2025-29) focused on backend engineering and data structures & algorithms. I design and build full-stack applications, from REST API architecture and database design to deployment.
 
 ## 🚀 Featured Projects
 
