@@ -6,7 +6,7 @@ Second-year B.Tech Computer Science student (2025-29) focused on backend enginee
 
 | Project | What it is | Stack |
 |---|---|---|
-| [NexusTrace](https://github.com/rehnx95/NexusTrace) | [Live](https://nexustrace-1.onrender.com/) Crime network analysis platform built for Smart India Hackathon (SIH26189). Extracts entities from FIR/CDR text using NLP, builds graphs in Neo4j, and detects key players and anomalies. | FastAPI, React, Neo4j, spaCy |
+| [NexusTrace](https://github.com/rehnx95/NexusTrace) · [Live](https://nexustrace-1.onrender.com/) | Crime network analysis platform built for Smart India Hackathon (SIH26189). Extracts entities from FIR/CDR text using NLP, builds graphs in Neo4j, and detects key players and anomalies. | FastAPI, React, Neo4j, spaCy |
 | [Project-Manager](https://github.com/rehnx95/Project-Manager) · [Live](https://project-manager-owgl.onrender.com/) | Project and task management API with JWT sessions, team collaboration, task assignments, role-based access control and audit logging. | Node.js, Express, PostgreSQL |
 | [Track-Sheet](https://github.com/rehnx95/Track-Sheet) · [Live](https://tracksheet-rehnx.vercel.app/) | Full-stack DSA and backend progress tracker with custom problem sheets, streaks, activity heatmaps and public profiles. | React, Vite, Supabase, Tailwind |
 | [DSA](https://github.com/rehnx95/DSA) | C++ solutions to a custom-modified Striver A2Z sheet, organized by topic and tracked live in Track-Sheet. | C++ |
