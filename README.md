@@ -1,6 +1,6 @@
 # Hi, I'm Rehan 👋
 
-Second-year B.Tech Computer Science student (2025-29) focused on backend engineering and data structures & algorithms. I design and build full-stack applications, from REST API architecture and database design to deployment.
+Second-year B.Tech Computer Science student (2025–29) focused on backend engineering and data structures & algorithms. I design and build full-stack applications, from REST API architecture and database design to deployment.
 
 ## 🚀 Featured Projects
 
@@ -8,9 +8,9 @@ Second-year B.Tech Computer Science student (2025-29) focused on backend enginee
 |---|---|---|
 | [Nexus-Trace](https://github.com/rehnx95/NexusTrace) · [Live](https://nexustrace-1.onrender.com/) | Crime network analysis platform built for Smart India Hackathon (SIH26189). Extracts entities from FIR/CDR text using NLP, builds graphs in Neo4j, and detects key players and anomalies. | FastAPI, React, Neo4j, spaCy |
 | [Project-Manager](https://github.com/rehnx95/Project-Manager) · [Live](https://project-manager-owgl.onrender.com/) | Project and task management API with JWT sessions, team collaboration, task assignments, role-based access control and audit logging. | Node.js, Express, PostgreSQL |
-| [Track-Sheet](https://github.com/rehnx95/Track-Sheet) · [Live](https://tracksheet-rehnx.vercel.app/) | Full-stack DSA and backend progress tracker with custom problem sheets, streaks, activity heatmaps and public profiles. | React, Vite, Supabase, Tailwind |
-| [DSA](https://github.com/rehnx95/DSA) | C++ solutions to a custom-modified Striver A2Z sheet, organized by topic and tracked live in Track-Sheet. | C++ |
-| [Backend](https://github.com/rehnx95/Backend) | Node.js implementations of a custom backend engineering roadmap, organized by topic and tracked live in Track-Sheet. | Node.js, Express |
+| [Momentum](https://github.com/rehnx95/Momentum) · [Live](https://tracksheet-rehnx.vercel.app/) | Personal progress workspace for learning tracks, daily activity and sleep logs, progress insights, and shareable profiles. Includes DSA and Backend tracks alongside support for personal learning plans. | React, Vite, Supabase, Tailwind |
+| [DSA](https://github.com/rehnx95/DSA) | C++ solutions to a custom-modified Striver A2Z sheet, organized by topic and tracked in Momentum. | C++ |
+| [Backend](https://github.com/rehnx95/Backend) | Node.js implementations of a custom backend engineering roadmap, organized by topic and tracked in Momentum. | Node.js, Express |
 
 ## 🛠️ Tech Stack
 
